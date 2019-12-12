@@ -1,3 +1,5 @@
+// This code is essentially based on Amal's work, https://github.com/cds-blog-code-samples/MarketSample . Thanks Amal
+
 pragma solidity ^ 0.5 .0;
 
 import "truffle/Assert.sol";
